@@ -1,0 +1,48 @@
+Music Lighter
+A candle look-a-like music lighter has changeable colours and shapes. Flame of Music Lighter behaves like a real one. It emmits sounds as well as react on them (i.e. sizzle, hiss) It may be used not only during the concerts and has extra features such stickers of a bands which play current concert. Colours of a screen is changeable.
+
+
+Roadmap :
+
+Month 1 : Java: getting used to environment + Android Studio
+
+Week 1 :
+Create github repo and follow git tutorial
+
+Week 2 :
+Learn JAVA
+
+Week 3 :
+Install Android Studio 
+
+Week 4 :
+Get used to android development
+
+Month  2: UX/ UI: lighter flame
+
+Week 5 :
+read about graphics and animations in android
+
+Week 6 :
+choosing shape, size, colours of lighter and creating a basic lighter
+
+Week 7 :
+create flame and lighter, prepare background screen
+
+Week 8 :
+moving flame in sync with the phone movement
+
+Month 3 : Features of a lighter flame
+
+Week 9 :
+adding sounds
+
+Week 10 :
+adding buttons (turning on and off some functions) 
+
+Week 11 :
+adding option: responsive to sound
+
+Week 12 :
+testing, upgrading (if needed) and backup time.
+
